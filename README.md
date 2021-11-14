@@ -31,3 +31,8 @@ Actualmente esta en la versión V1.0
 
 ### Autor
 El autor de la herramienta es @Tuch0
+
+# Requisitos
+Para instalar la herramienta es necesario:
+  1- Tener instalado python3
+  2- Iniciarla como "Root"
